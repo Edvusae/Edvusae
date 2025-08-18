@@ -17,7 +17,7 @@
 - 🚀 Currently mastering the **MERN stack** (MongoDB, Express.js, React, Node.js).
 - 🌱 Exploring advanced topics in **JavaScript performance** and **web accessibility**.
 - 💡 Enthusiastic about technology and collaborating on real-world solutions.
-- 📫 Reach me at [your-email@example.com](mailto:your-email@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/edwin-tsembegano-13800b23a).
+- 📫 Reach me at [edwintsembegano@gmail.com](mailto:your-email@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/edwin-tsembegano-13800b23a).
 
 ---
 
