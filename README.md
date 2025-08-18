@@ -36,11 +36,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Edvusae&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edvusae&theme=tokyonight" alt="GitHub Streak" />
+  <!-- The "&count_private=true" part is what includes all your commits -->
+  <!-- The "&hide_rank=true" part removes the letter grade -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Edvusae&show_icons=true&locale=en&theme=tokyonight&count_private=true&hide_rank=true" alt="Edwin's GitHub Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Edvusae&theme=tokyonight" alt="Edwin's GitHub Streak" />
 </p>
 
 ---
