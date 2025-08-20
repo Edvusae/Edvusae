@@ -42,6 +42,14 @@
 
 ---
 
+### 🚀 Activity Snapshot (July-August 2025)
+
+Based on a recent period of focused development:
+- **132 contributions** made in the last year.
+- **Recent Activity:** Created **48 commits** across **7 repositories** in August.
+
+---
+
 ### 🌐 Connect with Me
 
 <div align="center">
