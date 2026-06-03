@@ -1,27 +1,40 @@
-# 💫 About Me:
-ICT Officer | Technical Systems Management & Digital Project Enhancement<br><br>I lead critical ICT operations and infrastructure management for Vertical Momentum, ensuring our technology is utilized for maximum operational efficiency and business reliability.<br><br>My current focus is bridging technology management with advanced digital project development:<br><br>1. Technical Specialization: I apply specialized skills in **Next.js, TypeScript, and React.js** to architect and build robust digital tools, often focused on internal systems, dashboards, or high-stakes client-facing projects like the SEAT Africa Summit 2025 website.<br><br>2. Strategic Execution & Creative Integration: Leveraging a foundation in Architectural Technology and certified **Digital Marketing Strategy**, I bring a unique precision mindset. **I also apply strong visual skills (Graphic Design, Video Editing, UI/UX)** to create engaging assets and ensure that all technical implementations are visually compelling and optimised for conversion. I don't just build systems; I ensure their digital output is high-impact.<br><br>I am committed to maintaining highly available systems while continuously driving innovation through modern frontend development practices.
+# Hi, I'm Edwin Tsembegano 👋
 
+I am a **Frontend Developer & Multimedia Digital Specialist**. I bridge the gap between clean frontend engineering, visual media creation, and digital growth strategy. I don't just build high-performance web interfaces; I understand how to create the visual media and digital assets that drive traffic to them.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/edjack.bauer) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/@edwintcreates) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/edwin-tsembegano-13800b23a/) 
+### 🛠️ Tech Stack & Toolkit
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Edvusae&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Edvusae&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Edvusae&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Edvusae&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Edvusae&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- **Frontend Development:** HTML5, Modern CSS (Nesting, Container Queries, Flexbox/Grid), Vanilla JavaScript (ES6+)
+- **Multimedia Production:** Adobe Premiere Pro, Video Editing (Long & Short Form), Digital Content Creation
+- **Digital Strategy:** Search Engine Optimization (SEO), PPC Management, Performance Marketing
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Edvusae&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Highlighted Work
+
+#### 💻 [Professional Web Portfolio](https://github.com/Edvusae/Edvusae.github.io)
+*A high-impact, fully responsive portfolio built to showcase frontend mastery and clean UI architecture.*
+- **Tech:** Semantic HTML5, Modern CSS, Vanilla JavaScript
+- **Deployment:** Firebase Hosting
+- **Focus:** Performance optimization, absolute responsiveness, and clean typography.
+
+#### 🔧 [The Workshop Services Platform](https://github.com/Edvusae) *(Replace with exact repo name)*
+*A specialized automotive workshop service and maintenance layout.*
+- **Tech:** HTML5, Modern CSS Grid/Flexbox, Vanilla JS state management for dynamic category filtering.
+- **Focus:** Sticky navigation layouts, responsive dynamic pricing tier cards, and conversion-focused call-to-actions.
+
+---
+
+### 📊 What I Do
+
+- **Clean Engineering:** Writing semantic, accessible code with a heavy focus on performance and responsive user experiences.
+- **Multimedia & Distribution:** Creating high-retention video content designed to market digital products and break down complex technical workflows.
+- **Conversion-Focused Design:** Structuring layouts that don't just look good, but actively drive user engagement and business growth.
+
+---
+
+### 📬 Connect With Me
+
+- **Portfolio:** [edwintcreates.com](https://your-portfolio-link.com) *(Update with your actual domain/Firebase link)*
+- **Instagram:** [@edwintcreates](https://www.instagram.com/edwintcreates)
+- **LinkedIn:** [Edwin Tsembegano](https://www.linkedin.com/in/edwin-tsembegano-13800b23a/)
