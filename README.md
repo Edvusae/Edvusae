@@ -35,6 +35,6 @@ I am a **Frontend Developer & Multimedia Digital Specialist**. I bridge the gap 
 
 ### 📬 Connect With Me
 
-- **Portfolio:** [edwintcreates.com](https://your-portfolio-link.com) *(Update with your actual domain/Firebase link)*
+- **Portfolio:** [edwintcreates.com](https://edwin-portfolio-site.web.app/) 
 - **Instagram:** [@edwintcreates](https://www.instagram.com/edwintcreates)
 - **LinkedIn:** [Edwin Tsembegano](https://www.linkedin.com/in/edwin-tsembegano-13800b23a/)
